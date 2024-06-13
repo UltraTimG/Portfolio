@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align:center ;
+    color: rgb(255, 255, 255);
+    padding: 1.5rem;
+    width: 30rem;
+    margin-left: 25rem;
+    border-top: solid rgb(255, 10, 202);
+    border-bottom: solid rgb(248, 211, 0);
+    border-right: solid rgb(0, 255, 191);
+    border-left: solid rgb(255, 0, 0);
+    border-width: 10px;
+    border-radius: 100px;
+    background-color: black;
+}
+h2{
+    background-color: black;
+}
